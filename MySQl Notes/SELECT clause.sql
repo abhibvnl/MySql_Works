@@ -8,3 +8,4 @@ from emp;
 select sal,sal+50-10               #3
 As bonus
 from emp;
+
